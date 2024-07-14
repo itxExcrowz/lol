@@ -1,0 +1,440 @@
+UserID: 1069319252 | Time: 2024-06-10 09:01:04.822118 | Command: /bgmi | Target: 20.204.191.16 | Port: 10499 | Time: 240
+Username: @MickeyUnb
+Target: 20.204.191.16
+Port: 10499
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-10 09:57:23.666984 | Command: /bgmi | Target: 52.172.5.201 | Port: 15147 | Time: 240
+Username: @itxExCrowz
+Target: 52.172.5.201
+Port: 15147
+Time: 240
+
+UserID: 1069319252 | Time: 2024-06-10 10:01:15.724858 | Command: /bgmi | Target: 52.172.5.201 | Port: 15147 | Time: 240
+UserID: 1069319252 | Time: 2024-06-10 10:01:27.257147 | Command: /bgmi | Target: 52.172.5.201 | Port: 15147 | Time: 240
+Username: @MickeyUnb
+Target: 52.172.5.201
+Port: 15147
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-10 17:55:55.519537 | Command: /bgmi | Target: 20.235.17.222 | Port: 16435 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.17.222
+Port: 16435
+Time: 240
+
+UserID: 1069319252 | Time: 2024-06-10 17:56:21.732011 | Command: /bgmi | Target: 20.235.17.222 | Port: 16435 | Time: 240
+Username: @MickeyUnb
+Target: 20.235.17.222
+Port: 16435
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-10 18:31:03.084170 | Command: /bgmi | Target: 20.219.164.214 | Port: 22798 | Time: 240
+Username: @itxExCrowz
+Target: 20.219.164.214
+Port: 22798
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-10 19:02:47.758784 | Command: /bgmi | Target: 20.235.53.162 | Port: 13145 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.53.162
+Port: 13145
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-10 19:03:24.220777 | Command: /bgmi | Target: 20.235.53.162 | Port: 13145 | Time: 240
+UserID: 1826075891 | Time: 2024-06-10 19:06:41.941810 | Command: /bgmi | Target: 20.235.53.162 | Port: 13145 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.53.162
+Port: 13145
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-10 19:16:54.040981 | Command: /bgmi | Target: 20.235.53.162 | Port: 13145 | Time: 60
+Username: @itxExCrowz
+Target: 20.235.53.162
+Port: 13145
+Time: 60
+
+UserID: 1826075891 | Time: 2024-06-11 07:50:34.901469 | Command: /bgmi | Target: 4.213.64.89 | Port: 10635 | Time: 240
+Username: @itxExCrowz
+Target: 4.213.64.89
+Port: 10635
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 08:04:04.162834 | Command: /bgmi | Target: 20.235.147.109 | Port: 13226 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.147.109
+Port: 13226
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 08:04:26.161574 | Command: /bgmi | Target: 20.235.147.109 | Port: 13226 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.147.109
+Port: 13226
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 08:05:10.849712 | Command: /bgmi | Target: 20.235.147.109 | Port: 13226 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.147.109
+Port: 13226
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 08:14:09.329443 | Command: /bgmi | Target: 20.235.53.165 | Port: 10231 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.53.165
+Port: 10231
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 08:14:32.694752 | Command: /bgmi | Target: 20.235.53.165 | Port: 10231 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.53.165
+Port: 10231
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 09:08:24.697763 | Command: /bgmi | Target: 20.198.105.155 | Port: 28443 | Time: 180
+Username: @itxExCrowz
+Target: 20.198.105.155
+Port: 28443
+Time: 180
+
+UserID: 1826075891 | Time: 2024-06-11 09:17:24.061078 | Command: /bgmi | Target: 20.204.39.173 | Port: 26065 | Time: 240
+UserID: 1826075891 | Time: 2024-06-11 09:18:08.656740 | Command: /bgmi | Target: 20.204.39.173 | Port: 26065 | Time: 240
+Username: @itxExCrowz
+Target: 20.204.39.173
+Port: 26065
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 09:18:40.687945 | Command: /bgmi | Target: 20.204.39.173 | Port: 26065 | Time: 240
+Username: @itxExCrowz
+Target: 20.204.39.173
+Port: 26065
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 09:31:13.912249 | Command: /bgmi | Target: 20.235.90.0 | Port: 24463 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.90.0
+Port: 24463
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 09:40:50.523598 | Command: /bgmi | Target: 20.204.179.71 | Port: 28706 | Time: 240
+UserID: 1826075891 | Time: 2024-06-11 09:42:16.282914 | Command: /bgmi | Target: 20.204.179.71 | Port: 28706 | Time: 240
+Username: @itxExCrowz
+Target: 20.204.179.71
+Port: 28706
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 09:48:46.813725 | Command: /bgmi | Target: 20.204.179.71 | Port: 28706 | Time: 240
+Username: @itxExCrowz
+Target: 20.204.179.71
+Port: 28706
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 10:02:30.210413 | Command: /bgmi | Target: 20.204.179.71 | Port: 28706 | Time: 60
+Username: @itxExCrowz
+Target: 20.204.179.71
+Port: 28706
+Time: 60
+
+UserID: 1826075891 | Time: 2024-06-11 10:04:40.417998 | Command: /bgmi | Target: 20.204.179.71 | Port: 28706 | Time: 60
+Username: @itxExCrowz
+Target: 20.204.179.71
+Port: 28706
+Time: 60
+
+UserID: 1826075891 | Time: 2024-06-11 10:08:37.098293 | Command: /bgmi | Target: 20.204.159.82 | Port: 27557 | Time: 240
+Username: @itxExCrowz
+Target: 20.204.159.82
+Port: 27557
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 10:24:36.574949 | Command: /bgmi | Target: 20.204.159.82 | Port: 27557 | Time: 60
+Username: @itxExCrowz
+Target: 20.204.159.82
+Port: 27557
+Time: 60
+
+UserID: 1826075891 | Time: 2024-06-11 10:38:44.583904 | Command: /bgmi | Target: 20.204.179.88 | Port: 26329 | Time: 240
+Username: @itxExCrowz
+Target: 20.204.179.88
+Port: 26329
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 10:54:47.289399 | Command: /bgmi | Target: 20.204.189.126 | Port: 10468 | Time: 240
+Username: @itxExCrowz
+Target: 20.204.189.126
+Port: 10468
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 11:07:32.738936 | Command: /bgmi | Target: 20.235.95.62 | Port: 21772 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.95.62
+Port: 21772
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 11:16:10.690782 | Command: /bgmi | Target: 20.235.150.238 | Port: 15925 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.150.238
+Port: 15925
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 11:25:52.322533 | Command: /bgmi | Target: 20.235.51.134 | Port: 14157 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.51.134
+Port: 14157
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 11:34:15.122453 | Command: /bgmi | Target: 20.219.76.241 | Port: 28435 | Time: 240
+Username: @itxExCrowz
+Target: 20.219.76.241
+Port: 28435
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 11:35:01.626696 | Command: /bgmi | Target: 20.219.76.241 | Port: 28435 | Time: 240
+Username: @itxExCrowz
+Target: 20.219.76.241
+Port: 28435
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 11:38:54.111805 | Command: /bgmi | Target: 20.219.76.241 | Port: 23485 | Time: 240
+Username: @itxExCrowz
+Target: 20.219.76.241
+Port: 23485
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 11:44:57.595790 | Command: /bgmi | Target: 20.219.78.143 | Port: 26882 | Time: 240
+Username: @itxExCrowz
+Target: 20.219.78.143
+Port: 26882
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 11:53:46.031891 | Command: /bgmi | Target: 104.211.240.110 | Port: 11213 | Time: 240
+Username: @itxExCrowz
+Target: 104.211.240.110
+Port: 11213
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 11:57:49.362822 | Command: /bgmi | Target: 104.211.240.110 | Port: 11213 | Time: 180
+Username: @itxExCrowz
+Target: 104.211.240.110
+Port: 11213
+Time: 180
+
+UserID: 1826075891 | Time: 2024-06-11 12:06:23.665065 | Command: /bgmi | Target: 20.219.88.130 | Port: 20802 | Time: 240
+Username: @itxExCrowz
+Target: 20.219.88.130
+Port: 20802
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 12:06:54.535615 | Command: /bgmi | Target: 20.219.88.130 | Port: 20802 | Time: 240
+Username: @itxExCrowz
+Target: 20.219.88.130
+Port: 20802
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 12:10:27.210418 | Command: /bgmi | Target: 20.219.88.130 | Port: 20802 | Time: 240
+Username: @itxExCrowz
+Target: 20.219.88.130
+Port: 20802
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 12:11:03.264457 | Command: /bgmi | Target: 20.219.88.130 | Port: 20802 | Time: 240
+Username: @itxExCrowz
+Target: 20.219.88.130
+Port: 20802
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 12:14:35.008143 | Command: /bgmi | Target: 20.219.88.130 | Port: 20802 | Time: 240
+Username: @itxExCrowz
+Target: 20.219.88.130
+Port: 20802
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 12:15:14.238252 | Command: /bgmi | Target: 20.219.88.130 | Port: 20802 | Time: 240
+Username: @itxExCrowz
+Target: 20.219.88.130
+Port: 20802
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 12:27:13.853438 | Command: /bgmi | Target: 20.235.150.109 | Port: 26279 | Time: 180
+Username: @itxExCrowz
+Target: 20.235.150.109
+Port: 26279
+Time: 180
+
+UserID: 1826075891 | Time: 2024-06-11 12:38:24.684629 | Command: /bgmi | Target: 20.235.54.102 | Port: 26592 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.54.102
+Port: 26592
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 15:13:23.790088 | Command: /bgmi | Target: 20.198.74.232 | Port: 22140 | Time: 240
+Username: @itxExCrowz
+Target: 20.198.74.232
+Port: 22140
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 15:23:11.669582 | Command: /bgmi | Target: 52.140.3.244 | Port: 16129 | Time: 240
+Username: @itxExCrowz
+Target: 52.140.3.244
+Port: 16129
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 15:24:06.499918 | Command: /bgmi | Target: 52.140.3.244 | Port: 16129 | Time: 240
+Username: @itxExCrowz
+Target: 52.140.3.244
+Port: 16129
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 15:33:05.264741 | Command: /bgmi | Target: 52.140.3.244 | Port: 16129 | Time: 240
+UserID: 1826075891 | Time: 2024-06-11 15:33:20.028687 | Command: /bgmi | Target: 52.140.3.244 | Port: 16129 | Time: 240
+Username: @itxExCrowz
+Target: 52.140.3.244
+Port: 16129
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 15:40:10.759386 | Command: /bgmi | Target: 20.204.18.23 | Port: 10117 | Time: 180
+Username: @itxExCrowz
+Target: 20.204.18.23
+Port: 10117
+Time: 180
+
+UserID: 1826075891 | Time: 2024-06-11 15:44:15.524615 | Command: /bgmi | Target: 20.204.18.23 | Port: 10117 | Time: 60
+Username: @itxExCrowz
+Target: 20.204.18.23
+Port: 10117
+Time: 60
+
+UserID: 1826075891 | Time: 2024-06-11 15:48:14.689378 | Command: /bgmi | Target: 20.198.104.148 | Port: 10198 | Time: 240
+Username: @itxExCrowz
+Target: 20.198.104.148
+Port: 10198
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 15:57:57.540522 | Command: /bgmi | Target: 20.198.105.234 | Port: 24125 | Time: 240
+UserID: 1826075891 | Time: 2024-06-11 15:58:25.470548 | Command: /bgmi | Target: 20.198.105.234 | Port: 24125 | Time: 240
+Username: @itxExCrowz
+Target: 20.198.105.234
+Port: 24125
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 16:46:02.843785 | Command: /bgmi | Target: 20.198.7.12 | Port: 20268 | Time: 240
+Username: @itxExCrowz
+Target: 20.198.7.12
+Port: 20268
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 16:55:09.951505 | Command: /bgmi | Target: 20.198.107.78 | Port: 10424 | Time: 240
+Username: @itxExCrowz
+Target: 20.198.107.78
+Port: 10424
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 17:04:43.274832 | Command: /bgmi | Target: 20.198.108.229 | Port: 26136 | Time: 240
+UserID: 1826075891 | Time: 2024-06-11 17:05:06.706979 | Command: /bgmi | Target: 20.198.108.229 | Port: 26136 | Time: 240
+Username: @itxExCrowz
+Target: 20.198.108.229
+Port: 26136
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 17:26:50.338461 | Command: /bgmi | Target: 20.235.93.135 | Port: 23265 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.93.135
+Port: 23265
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 17:40:47.508263 | Command: /bgmi | Target: 4.213.66.125 | Port: 11339 | Time: 240
+Username: @itxExCrowz
+Target: 4.213.66.125
+Port: 11339
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 17:52:49.158818 | Command: /bgmi | Target: 20.198.110.158 | Port: 15151 | Time: 240
+Username: @itxExCrowz
+Target: 20.198.110.158
+Port: 15151
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 18:00:54.336679 | Command: /bgmi | Target: 20.204.178.223 | Port: 17525 | Time: 240
+Username: @itxExCrowz
+Target: 20.204.178.223
+Port: 17525
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 18:13:25.646410 | Command: /bgmi | Target: 20.204.191.218 | Port: 10024 | Time: 240
+Username: @itxExCrowz
+Target: 20.204.191.218
+Port: 10024
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 18:25:21.613194 | Command: /bgmi | Target: 20.235.93.81 | Port: 17083 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.93.81
+Port: 17083
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 18:40:47.420512 | Command: /bgmi | Target: 20.204.53.122 | Port: 16328 | Time: 240
+Username: @itxExCrowz
+Target: 20.204.53.122
+Port: 16328
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 18:50:08.393229 | Command: /bgmi | Target: 20.219.111.134 | Port: 20788 | Time: 240
+Username: @itxExCrowz
+Target: 20.219.111.134
+Port: 20788
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-11 19:01:22.520829 | Command: /bgmi | Target: 20.198.106.69 | Port: 13487 | Time: 240
+Username: @itxExCrowz
+Target: 20.198.106.69
+Port: 13487
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-12 05:40:56.734697 | Command: /bgmi | Target: 20.198.74.11 | Port: 12098 | Time: 240
+Username: @itxExCrowz
+Target: 20.198.74.11
+Port: 12098
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-12 06:19:59.928074 | Command: /bgmi | Target: 20.235.95.78 | Port: 12332 | Time: 240
+Username: @itxExCrowz
+Target: 20.235.95.78
+Port: 12332
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-12 17:53:37.507155 | Command: /bgmi | Target: 20.198.110.84 | Port: 23291 | Time: 240
+Username: @itxExCrowz
+Target: 20.198.110.84
+Port: 23291
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-12 18:26:17.692185 | Command: /bgmi | Target: 4.213.64.47 | Port: 10760 | Time: 240
+Username: @itxExCrowz
+Target: 4.213.64.47
+Port: 10760
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-12 18:30:33.797549 | Command: /bgmi | Target: 4.213.64.47 | Port: 10760 | Time: 120
+UserID: 1826075891 | Time: 2024-06-12 18:30:40.802147 | Command: /bgmi | Target: 4.213.64.47 | Port: 10760 | Time: 120
+Username: @itxExCrowz
+Target: 4.213.64.47
+Port: 10760
+Time: 120
+
+UserID: 1826075891 | Time: 2024-06-12 18:35:54.293995 | Command: /bgmi | Target: 20.198.79.107 | Port: 27712 | Time: 240
+Username: @itxExCrowz
+Target: 20.198.79.107
+Port: 27712
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-13 17:47:30.766769 | Command: /bgmi | Target: 20.198.76.200 | Port: 24652 | Time: 240
+Username: @itxExCrowz
+Target: 20.198.76.200
+Port: 24652
+Time: 240
+
+UserID: 1826075891 | Time: 2024-06-13 18:10:28.030308 | Command: /bgmi | Target: 4.213.68.12 | Port: 27251 | Time: 240
+Username: @itxExCrowz
+Target: 4.213.68.12
+Port: 27251
+Time: 240
+
